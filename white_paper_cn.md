@@ -85,5 +85,5 @@ $
 - [DAPP](https://fcoin.me)
 - [GitHub](https://github.com/LessMyers/fcoin)
 - [Twitter(X)](https://x.com/@FC_Project)
-- [Telegram](https://web.telegram.org/k/#@FundCoinGroup)
+- [Telegram](https://t.me/+p4EShx_eOG41MWE1)
 - [Email](contact@fcoin.me)
